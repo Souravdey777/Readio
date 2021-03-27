@@ -1,4 +1,7 @@
 # Readio 📚 🔊
+
+**Currenty the Product is under development.**
+
 A Audio book generator and a social platform to discuss about books converted from PDF
 
 ### Design 
